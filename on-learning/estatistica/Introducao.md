@@ -15,22 +15,22 @@
 * Ocacional
 
 ## Tipos de variáveis
-a. Quantitativas
+1. Quantitativas
     * Discretas
     * Contínuas
-b. Qualitativas
+2. Qualitativas
     * Nominais
     * Ordinais
 
 ## Tipos de Amostragem
-a. Probabilística
-    1. Aleatória simples
-    2. Sistemática
-    3. Estratificada
-    4. Conglomerados
-b. Não Probabilísitica
-    5. Conveniência
-    6. Intencional
-    7. Cotas
-    8. Autosseleção
-    9. Bola de neve
+1. Probabilística
+    * Aleatória simples
+    * Sistemática
+    * Estratificada
+    * Conglomerados
+* Não Probabilísitica
+    * Conveniência
+    * Intencional
+    * Cotas
+    * Autosseleção
+    * Bola de neve
