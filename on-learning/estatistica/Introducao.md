@@ -28,7 +28,7 @@
     * Sistemática
     * Estratificada
     * Conglomerados
-* Não Probabilísitica
+2. Não Probabilísitica
     * Conveniência
     * Intencional
     * Cotas
